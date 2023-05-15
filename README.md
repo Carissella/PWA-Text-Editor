@@ -1,6 +1,8 @@
 # Progressive Web Application: Text Editor
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  [Deployed App]()
+
  ## Table of Contents 📑
 
   * [Description](#description)
@@ -14,7 +16,7 @@
 
 ## Description 
 
-This is a text editor program that runs in a web browser and does meet the requirements for being a Progressive Web App which can also be considered a PWA. As a PWA, the program is able to functionin offline and does have data persistence strategies as a fallback in the case a browser doesn't support a certain strategy.
+This is a text editor program that runs in a web browser and meets the requirements for being a Progressive Web App which can also be considered a PWA. As a PWA, the program is able to functionin offline and does have data persistence strategies as a fallback in the case a browser doesn't support a certain strategy.
 
 ## Dependencies  
 
@@ -31,6 +33,7 @@ This is a text editor program that runs in a web browser and does meet the requi
 * babel-loader: 8.2.2
 * code-mirror-themes: 1.0.0
 * idb: 6.1.2
+
 You can also find more information regarding each of the dependencies in the repository package.json file.
 
  ## Usage 
