@@ -1,7 +1,7 @@
 # Progressive Web Application: Text Editor
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  [Deployed App]()
+  [Deployed App](https://pwa-text-editor-cb.herokuapp.com/)
 
  ## Table of Contents
 
@@ -17,6 +17,10 @@
 ## Description 
 
 This is a text editor program that runs in a web browser and meets the requirements for being a Progressive Web App which can also be considered a PWA. As a PWA, the program is able to functionin offline and does have data persistence strategies as a fallback in the case a browser doesn't support a certain strategy.
+
+## Screenshots
+
+![Screenshot of deployed text editor](./Assets/2023-05-15%20(5).png)
 
 ## Dependencies  
 
@@ -38,7 +42,7 @@ You can also find more information regarding each of the dependencies in the rep
 
  ## Usage 
 
-  1. Create your own repository using the starter code by cloning the starter code repository. 
+  1. Please create your own repository using the starter code by cloning the starter code repository. 
   2. In order to launch the backend code and serve the client code aswell, run npm run start from the root directory.
   3. IndexedDB will create a database store when the text editor is opened.
   4. When you enter text content and then close the DOM window, the text content is saved with the IndexedDB.
